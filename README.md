@@ -1,19 +1,9 @@
-
-<p align="center">
-<a href="https://www.npmjs.com/package/react-native-timer-countdown" alt="npm version"><img src="https://badge.fury.io/js/react-native-timer-countdown.svg" /></a>
-<a href="https://travis-ci.com/noelyoo/react-native-timer-countdown" alt="npm license"><img src="https://travis-ci.com/noelyoo/react-native-timer-countdown.svg?branch=master" /></a>
-<a href="https://www.npmjs.com/package/react-native-timer-countdown" alt="npm downloads monthly"><img src="https://img.shields.io/npm/dm/react-native-timer-countdown.svg" /></a>
-<a href="https://www.npmjs.com/package/react-native-timer-countdown" alt="npm license"><img src="https://img.shields.io/npm/l/react-native-timer-countdown.svg" /></a>
-</p>
-
 <h2 align="center">React Native Timer Countdown</h2>
 
 <p align="center">
 ⏱ A minimal and customizable countdown timer<br/>
 for React Native (iOS and Android)
 </p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/noelyoo/react-native-timer-countdown/master/demo.gif" align="center" width="175px" /></p>
 
 ## Installation
 
@@ -131,15 +121,6 @@ const styles = StyleSheet.create({
   }
 });
 ```
-## Contributing
-
-We recommend the community help us make improvements. To report bugs please create an issue in this repository.
-
-#### Read our [contribution guidelines](./CONTRIBUTING.md).
-
-## Author
-
-[Noel Yoo](https://noelyoo.github.io/resume)
 
 ## License
 
