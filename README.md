@@ -122,6 +122,10 @@ const styles = StyleSheet.create({
 });
 ```
 
+## Author
+
+[Noel Yoo](https://noelyoo.github.io/resume)
+
 ## License
 
 MIT
