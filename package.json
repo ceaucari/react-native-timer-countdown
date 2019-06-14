@@ -1,0 +1,38 @@
+{
+  "name": "react-native-timer-countdown",
+  "version": "4.1.0",
+  "description": "A minimal and customizable countdown timer for React Native (iOS and Android)",
+  "main": "index.js",
+  "scripts": {
+    "lint": "tslint --project tsconfig.json --format stylish",
+    "ci": "tsc && npm run lint && npm run prettier",
+    "build": "npm run ci && tsc",
+    "prettier": "prettier --write '**/*.{ts,tsx,js}' --config .prettierrc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelyoo/react-native-timer-countdown.git"
+  },
+  "keywords": [
+    "react-native",
+    "timer",
+    "countdown"
+  ],
+  "author": "Noel Yoo <innovation.noel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noelyoo/react-native-timer-countdown/issues"
+  },
+  "homepage": "https://github.com/noelyoo/react-native-timer-countdown#readme",
+  "devDependencies": {
+    "@types/node": "^10.12.30",
+    "@types/react": "^16.8.7",
+    "@types/react-dom": "16.0.3",
+    "@types/react-native": "^0.56.24",
+    "prettier": "1.13.7",
+    "tslint": "^5.13.1",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-eslint-rules": "^5.4.0",
+    "typescript": "^3.3.3333"
+  }
+}
